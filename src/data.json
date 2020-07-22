@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+            "correct_answer": "Apple",
+            "incorrect_answers": [
+                "Microsoft",
+                "Atari",
+                "Commodore"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does the &quot;MP&quot; stand for in MP3?",
+            "correct_answer": "Moving Picture",
+            "incorrect_answers": [
+                "Music Player",
+                "Multi Pass",
+                "Micro Point"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When Gmail first launched, how much storage did it provide for your email?",
+            "correct_answer": "1GB",
+            "incorrect_answers": [
+                "512MB",
+                "5GB",
+                "Unlimited"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What amount of bits commonly equals one byte?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "64"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does the Prt Sc button do?",
+            "correct_answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+            "incorrect_answers": [
+                "Nothing",
+                "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+                "Closes all windows"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+            "correct_answer": ".svg",
+            "incorrect_answers": [
+                ".png",
+                ".jpeg",
+                ".gif"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The C programming language was created by this American computer scientist. ",
+            "correct_answer": "Dennis Ritchie",
+            "incorrect_answers": [
+                "Tim Berners Lee",
+                "al-Khwārizmī",
+                "Willis Ware"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How long is an IPv6 address?",
+            "correct_answer": "128 bits",
+            "incorrect_answers": [
+                "32 bits",
+                "64 bits",
+                "128 bytes"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In computing, what does MIDI stand for?",
+            "correct_answer": "Musical Instrument Digital Interface",
+            "incorrect_answers": [
+                "Musical Interface of Digital Instruments",
+                "Modular Interface of Digital Instruments",
+                "Musical Instrument Data Interface"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In computing, what does LAN stand for?",
+            "correct_answer": "Local Area Network",
+            "incorrect_answers": [
+                "Long Antenna Node",
+                "Light Access Node",
+                "Land Address Navigation"
+            ]
+        }
+    ]
+}
