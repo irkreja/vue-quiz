@@ -1,5 +1,9 @@
 # vue-quiz
 
+Simple Vue Quiz Application
+
+For demo and further details visit https://simple-vue-quiz.herokuapp.com/
+
 ## Project setup
 ```
 npm install
